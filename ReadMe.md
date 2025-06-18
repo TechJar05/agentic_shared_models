@@ -13,4 +13,4 @@ This is a shared Python package that contains common SQLAlchemy models used acro
 ### 📥 Install via GitHub (recommended)
 
 ```bash
-pip install git+https://github.com/<your-username>/shared_models.git
+pip install git+https://github.com/TechJar05/agentic_shared_models.git
