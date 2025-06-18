@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.env
+*.env
+
+# Installer logs
+pip-log.txt
+
+# macOS
+.DS_Store
+
+# PyInstaller
+*.spec
+
+# Alembic or SQL logs (if any)
+migrations/
+alembic/
+*.sqlite
+
+# IDE files
+.vscode/
+.idea/
+
+# Python egg
+*.egg-info/
