@@ -12,8 +12,8 @@ Base = declarative_base()
 
 # 🔹 Role Enum
 class RoleEnum(str, enum.Enum):
-    MD = "md"
-    ADMIN = "admin"
+    md = "md"
+    admin = "admin"
 
 
 # 🔹 Centralized User Table
